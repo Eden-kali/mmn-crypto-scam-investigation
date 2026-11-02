@@ -1,0 +1,7 @@
+type,value,context,confidence,first_observed
+domain,mmn.cc,Domain supplied in suspicious solicitation,high,2026-11
+url,https://www.mmn.cc/index/user/index.html,Reported login URL,high,2026-11
+ipv4,45.195.197.201,Observed DNS resolution for mmn.cc and www.mmn.cc,high,2026-11
+network,45.195.197.0/24,WHOIS network allocation context not a malicious subnet designation,high,2026-11
+asn_record,AS139613,Historical or registered route object not confirmed live origin,high,2026-11
+asn_record,AS54801,Historical or registered route object not confirmed live origin,high,2026-11

@@ -1,0 +1,12 @@
+# Private investigation evidence
+evidence-private/
+private/
+secrets/
+*.key
+*.pem
+*.env
+
+# Local artifacts
+__pycache__/
+*.pyc
+.DS_Store
